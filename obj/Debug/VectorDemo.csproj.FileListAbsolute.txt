@@ -1,0 +1,10 @@
+C:\Users\max42\RiderProjects\VectorDemo\VectorDemo\bin\Debug\VectorDemo.exe
+C:\Users\max42\RiderProjects\VectorDemo\VectorDemo\bin\Debug\VectorDemo.pdb
+C:\Users\max42\RiderProjects\VectorDemo\VectorDemo\bin\Debug\MathVector.dll
+C:\Users\max42\RiderProjects\VectorDemo\VectorDemo\bin\Debug\MathVector.pdb
+C:\Users\max42\RiderProjects\VectorDemo\VectorDemo\obj\Debug\VectorDemo.csproj.AssemblyReference.cache
+C:\Users\max42\RiderProjects\VectorDemo\VectorDemo\obj\Debug\VectorDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\max42\RiderProjects\VectorDemo\VectorDemo\obj\Debug\VectorDemo.csproj.CoreCompileInputs.cache
+C:\Users\max42\RiderProjects\VectorDemo\VectorDemo\obj\Debug\VectorDemo.csproj.CopyComplete
+C:\Users\max42\RiderProjects\VectorDemo\VectorDemo\obj\Debug\VectorDemo.exe
+C:\Users\max42\RiderProjects\VectorDemo\VectorDemo\obj\Debug\VectorDemo.pdb
