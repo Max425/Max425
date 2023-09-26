@@ -9,7 +9,6 @@
 <a href="https://github.com/Max425?tab=repositories&language=go" target="_blank"> <img src="https://skillicons.dev/icons?i=go"/></a>
 <a href="https://github.com/Max425?tab=repositories&language=c%23" target="_blank"> <img src="https://skillicons.dev/icons?i=cs"/></a>
 <a href="https://github.com/Max425?tab=repositories&language=cpp" target="_blank"> <img src="https://skillicons.dev/icons?i=cpp"/></a>
-<img src="https://skillicons.dev/icons?i=cmake"/>
 <a href="https://github.com/Max425?tab=repositories&language=python" target="_blank"> <img src="https://skillicons.dev/icons?i=python"/></a>
 <img src="https://skillicons.dev/icons?i=django"/>
 ### Frontend
@@ -20,7 +19,7 @@
 <img src="https://skillicons.dev/icons?i=postgres"/>
 
 ## Tools
-<img src="https://skillicons.dev/icons?i=git,docker,linux,bash,vscode,github,gitlab"/>
+<img src="https://skillicons.dev/icons?i=git,docker,linux,bash,vscode,github,gitlab,cmake"/>
 
 ##  Contact me
 <a href="https://t.me/Maxim_Sikanov" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/fluency/48/telegram-app.png" alt="telegram-app"/></a>
