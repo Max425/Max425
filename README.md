@@ -2,13 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Max425&label=Profile%20views&color=0e75b6&style=flat" alt="Max425" /> </p>
 
-* <h3 align="left">Backend Developer (C#) at <a href="https://qoollo.com/" >QOOLLO;</a> </h3>
+* <h3 align="left">Backend Developer (Go) at <a href="https://tech.wildberries.ru/" >Wildberries</a> </h3>
 
-* <h3 align="left"><a href="https://www.bmstu.ru/" >BMSTU</a> Student SSH3(3rd year);</h3>
+* <h3 align="left"><a href="https://www.bmstu.ru/" >BMSTU</a> Student SSH3(3rd year)</h3>
 
-* <h3 align="left"> Student of the <a href="https://park.vk.company/" >VK Technopark</a> "Web-developer" (02.2023-to this day);</h3>
+* <h3 align="left"> Student of the <a href="https://park.vk.company/" >VK Technopark</a> "Web-developer" (02.2023-to this day)</h3>
 
-* <h3 align="left"> CV in Russian (actual 11.01.2024) - <a href="https://drive.google.com/file/d/1Pq4RXCwx0Glj_wjqeCJcHj8qZsfAfJKw/view?usp=sharing">link</a>.</h3>
+* <h3 align="left"> CV in Russian (actual 27.07.2024) - <a href="https://drive.google.com/file/d/1Pq4RXCwx0Glj_wjqeCJcHj8qZsfAfJKw/view?usp=sharing">link</a></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
