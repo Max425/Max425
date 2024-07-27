@@ -4,7 +4,7 @@
 
 * <h3 align="left">Backend Developer (Go) at <a href="https://tech.wildberries.ru/" >Wildberries</a> </h3>
 
-* <h3 align="left"><a href="https://www.bmstu.ru/" >BMSTU</a> Student SSH3(3rd year)</h3>
+* <h3 align="left"><a href="https://www.bmstu.ru/" >BMSTU</a> Student SSH3(4rd year)</h3>
 
 * <h3 align="left"> Student of the <a href="https://park.vk.company/" >VK Technopark</a> "Web-developer" (02.2023-to this day)</h3>
 
