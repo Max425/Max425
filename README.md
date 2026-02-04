@@ -8,7 +8,7 @@
 
 * <h3 align="left"> Student of the <a href="https://park.vk.company/" >VK Technopark</a> "Web-developer" (02.2023-to this day)</h3>
 
-* <h3 align="left"> CV in Russian (actual 27.07.2024) - <a href="https://drive.google.com/file/d/1Pq4RXCwx0Glj_wjqeCJcHj8qZsfAfJKw/view?usp=sharing">link</a></h3>
+* <h3 align="left"> CV in Russian (actual 27.09.2025) - <a href="https://drive.google.com/file/d/15cJCp9yUBuw9zkeU99s-P6jvd9PRYF51/view?usp=sharing">link</a></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
